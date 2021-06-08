@@ -11,7 +11,7 @@ ESP8266: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 2. Tools - Boards - Boards Manager
 
-
+![board manager](Assets/image-20210602222607239.png)
 
 ## 2. Audio Visualization (p5.js)
 
