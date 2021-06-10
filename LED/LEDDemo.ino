@@ -1,3 +1,6 @@
+//Board ESP8266
+//LED WS2812B
+
 #include <FastLED.h>
 
 #define DATA_PIN    D4
