@@ -1,3 +1,5 @@
+//Board: Adafruit Flora
+
 int capval;
 void setup()
 {
