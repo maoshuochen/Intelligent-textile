@@ -16,4 +16,7 @@ https://editor.p5js.org/maoshuochen/sketches/yU0F-o_1j
 ## 3. P5.serial - Connect with Arduino
 Receive data from arduino serial print  
 p5: https://editor.p5js.org/maoshuochen/sketches/_inlk-U0G  
-library: https://github.com/p5-serial/p5.serialport
+library: https://github.com/p5-serial/p5.serialport  
+
+Environment Set-up:  
+Download & Open p5.serial App : https://github.com/p5-serial/p5.serialcontrol/releases
