@@ -16,3 +16,8 @@ ESP8266: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ## 2. Audio Visualization (p5.js)
 
 https://editor.p5js.org/maoshuochen/sketches/yU0F-o_1j
+
+## 3. P5.serial - Connect with Arduino
+
+p5: https://editor.p5js.org/maoshuochen/sketches/_inlk-U0G
+library: https://github.com/p5-serial/p5.serialport
