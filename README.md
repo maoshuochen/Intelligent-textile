@@ -1,5 +1,6 @@
 # Intelligent-textile
 2021 Spring - Studio 2
+Prototype: https://editor.p5js.org/maoshuochen/sketches/iNm7hLq6G
 
 ## 1. Arduino 
 ### 1.1. Environment Set-up - Board Manager
